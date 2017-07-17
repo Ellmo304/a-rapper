@@ -1,0 +1,17 @@
+LaunchRequest start a rapper
+LaunchRequest launch a rapper
+LaunchRequest open a rapper
+
+GetAdviceIntent for advice
+GetAdviceIntent to give me some advice
+
+GetBarsIntent for some bars
+GetBarsIntent some bars
+GetBarsIntent ask {rapper} for some bars
+GetBarsIntent ask {rapper} to spit some bars
+
+AMAZON.StopIntent stop
+AMAZON.StopIntent off
+AMAZON.StopIntent goodbye
+AMAZON.StopIntent shut up
+AMAZON.StopIntent bye

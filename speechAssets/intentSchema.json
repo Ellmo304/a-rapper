@@ -1,0 +1,21 @@
+{
+  "intents": [
+    { "intent": "GetAdviceIntent", "slots": [
+      {
+        "name": "rapper",
+        "type": "LIST_OF_RAPPERS",
+      }
+      ]},
+    { "intent": "GetBarsIntent", "slots": [
+      {
+        "name": "rapper",
+        "type": "LIST_OF_RAPPERS",
+      }
+      ]},
+      { "intent": "AMAZON.YesIntent", "slots": [] },
+      { "intent": "AMAZON.NoIntent", "slots": [] },
+      { "intent": "AMAZON.HelpIntent", "slots": [] },
+      { "intent": "AMAZON.StopIntent", "slots": [] },
+      { "intent": "AMAZON.CancelIntent", "slots": [] },
+    ]
+  }
